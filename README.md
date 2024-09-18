@@ -14,6 +14,8 @@ The data is sourced from the [Open Food Facts dataset on Kaggle](https://www.kag
 - Sugars
 - Fibers
 
+  The data can be downloaded and placed in the "data" folder. The final analysis plots are present in the "plots" folder.
+
 ## Requirements
 
 To run the analysis, you'll need the following packages:
