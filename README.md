@@ -23,3 +23,10 @@ To run the analysis, you'll need the following packages:
 - pandas
 - pyspark
 - plotly
+
+  ## Analysis
+
+![Alt text](https://github.com/rahumanaslam/FoodNutritionAnalysis/blob/main/plots/number_of_products_by_brands.png)
+
+The chart shows that **Carrefour** has the most products, followed by **Meijer** and **Auchan**, while **Weis Quality** and **Essential Everyday** offer the least. There's a noticeable gap between the top and bottom performers, and most brands fall within a specific product range. Overall, the chart provides a clear picture of product diversity among the brands, helping to identify market leaders, niche players, and growth opportunities.
+  
