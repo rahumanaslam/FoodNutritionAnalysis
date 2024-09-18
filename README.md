@@ -24,9 +24,20 @@ To run the analysis, you'll need the following packages:
 - pyspark
 - plotly
 
-  ## Analysis
+## Analysis
 
-![Alt text](https://github.com/rahumanaslam/FoodNutritionAnalysis/blob/main/plots/number_of_products_by_brands.png)
+![Number of Products by Brands](https://github.com/rahumanaslam/FoodNutritionAnalysis/blob/main/plots/number_of_products_by_brands.png)
+The chart shows that **Carrefour** has the most products, followed by **Meijer** and **Auchan**, while **Weis Quality** and **Picard** offer the least. There's a noticeable gap between the top and bottom performers, and most brands fall within a specific product range. Overall, the chart provides a clear picture of product diversity among the brands, helping to identify market leaders, niche players, and growth opportunities.
 
-The chart shows that **Carrefour** has the most products, followed by **Meijer** and **Auchan**, while **Weis Quality** and **Essential Everyday** offer the least. There's a noticeable gap between the top and bottom performers, and most brands fall within a specific product range. Overall, the chart provides a clear picture of product diversity among the brands, helping to identify market leaders, niche players, and growth opportunities.
-  
+![Total Additives Added by the Brands](https://github.com/rahumanaslam/FoodNutritionAnalysis/blob/main/plots/total_additives_by_brands.png)
+
+![Number of Additives by name](https://github.com/rahumanaslam/FoodNutritionAnalysis/blob/main/plots/number_of_additives_by_name.png)
+
+
+![Total Fibers and Proteins by Brands](https://github.com/rahumanaslam/FoodNutritionAnalysis/blob/main/plots/comparison_of_brands_by_total_proteins_and_total_fibers.png)
+
+
+![Total Sugars and Fats by Brands](https://github.com/rahumanaslam/FoodNutritionAnalysis/blob/main/plots/comparison_of_brands_by_total_sugars_and_total_fats.png)
+
+![](https://github.com/rahumanaslam/FoodNutritionAnalysis/blob/main/plots/ingredient_usage_distribution.png)
+
