@@ -27,7 +27,6 @@ To run the analysis, you'll need the following packages:
 ## Analysis
 
 ![Number of Products by Brands](https://github.com/rahumanaslam/FoodNutritionAnalysis/blob/main/plots/number_of_products_by_brands.png)
-The chart shows that **Carrefour** has the most products, followed by **Meijer** and **Auchan**, while **Weis Quality** and **Picard** offer the least. There's a noticeable gap between the top and bottom performers, and most brands fall within a specific product range. Overall, the chart provides a clear picture of product diversity among the brands, helping to identify market leaders, niche players, and growth opportunities.
 
 ![image](https://github.com/user-attachments/assets/9da6aec5-b8c1-4a2a-983d-1d43f50cfd1a)
 
@@ -36,7 +35,6 @@ The chart shows that **Carrefour** has the most products, followed by **Meijer**
 ![Number of Additives by name](https://github.com/rahumanaslam/FoodNutritionAnalysis/blob/main/plots/number_of_additives_by_name.png)
 
 ![Total Fibers and Proteins by Brands](https://github.com/rahumanaslam/FoodNutritionAnalysis/blob/main/plots/comparison_of_brands_by_total_proteins_and_total_fibers.png)
-
 
 ![Total Sugars and Fats by Brands](https://github.com/rahumanaslam/FoodNutritionAnalysis/blob/main/plots/comparison_of_brands_by_total_sugars_and_total_fats.png)
 
